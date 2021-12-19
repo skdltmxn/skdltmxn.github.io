@@ -4,5 +4,16 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+### 하는 일
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+게임회사에서 안티치트를 담당하고 있습니다.
+
+### 거주지
+
+대한민국 서울에서 거주/근무하고 있습니다.
+
+### 취미
+
+- 영화/드라마 감상
+- 레고 조립
+- 키보드 쇼핑

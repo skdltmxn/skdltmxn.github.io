@@ -25,14 +25,10 @@ tagline: 잡다한 지식 보관소
 description: >- # used by seo meta and the atom feed
   알아두면 언젠간 쓸모가 있을지도 모르는 잡다한 지식을 보관하고자 하는 블로그
 
-# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://skdltmxn.github.io"
 
 github:
-  username: skdltmxn # change to your github username
-
-# twitter:
-#   username: twitter_username            # change to your twitter username
+  username: skdltmxn
 
 social:
   name: skdltmxn
